@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$('.myLink').on('click', function() {
-		$('h1').slideToggle(3000);
+	$('img').on('click', function() {
+		$('.slide').toggleClass('active');
 	});
 });
