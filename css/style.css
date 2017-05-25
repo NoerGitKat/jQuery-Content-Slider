@@ -1,5 +1,18 @@
 body {
-	background-color: lightblue;
+	background-color: #0e3832;
+	font-family: Times, Garamond, serif;
+	font-weight: bold;
+}
+
+.wrapper {
+	margin: 60px auto;
+	width: 500px;
+	border: 1px solid lightgrey;
+	border-radius: 10px;
+}
+
+.wrapper h1 {
+	text-align: center;
 }
 
 .red {
